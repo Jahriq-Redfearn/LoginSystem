@@ -5,7 +5,7 @@ public class IDandPasswords {
     //storing two strings id and a password
     HashMap<String,String> logininfo = new HashMap<String,String>();
 
-    //create a contructor for id and password
+    //create a constructor for id and password
     IDandPasswords(){
         logininfo.put("Jason", "Apple");
         logininfo.put("Tom", "tomato");
